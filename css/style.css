@@ -61,16 +61,16 @@ pre,code {
     background-color:var(--primary-color);
     color:#fff;
     height:70px;
-    overflow: auto;
+}
+
+.navbar ul {
+    display:flex;
 }
 
 .navbar .flex {
     justify-content:space-between;
 }
 
-.navbar ul {
-    display:flex;
-}
 
 .navbar a {
     color:#fff;
