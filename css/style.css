@@ -61,6 +61,7 @@ pre,code {
     background-color:var(--primary-color);
     color:#fff;
     height:70px;
+    overflow: auto;
 }
 
 .navbar .flex {
