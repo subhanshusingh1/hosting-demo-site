@@ -189,7 +189,7 @@ pre {
 
 /* Languages */
 
-.languages .flex {
+.languages .flex .card{
   flex-wrap: wrap;
 }
 
