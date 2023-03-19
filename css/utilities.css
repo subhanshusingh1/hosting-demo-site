@@ -191,6 +191,10 @@
   .m-5 {
     margin: 4rem;
   }
+
+  .mt {
+    margin-top:10px;
+  }
   
   /* Padding */
   .py-1 {
