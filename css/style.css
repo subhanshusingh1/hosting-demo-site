@@ -321,16 +321,19 @@ pre {
 
 /* Tablets and under */
 @media (max-width: 768px) {
-  .grid,
-  .showcase .grid,
-  .stats .grid,
-  .cli .grid,
-  .cloud .grid,
-  .features-main .grid,
-  .docs-main .grid {
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-  }
+    .grid,
+    .showcase .grid,
+    .stats .grid,
+    .cli .grid,
+    .cloud .grid,
+    .features-main .grid,
+    .features-head .grid,
+    .features-sub-head .grid,
+    .docs-head .grid,
+    .docs-main .grid {
+       grid-template-columns:1fr;
+       grid-template-rows:1fr;
+    }
 
   .showcase {
     height: auto;
